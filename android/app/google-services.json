@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1037349003274",
+    "project_id": "notifications-dart",
+    "storage_bucket": "notifications-dart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037349003274:android:010e4723b606625a3dbff3",
+        "android_client_info": {
+          "package_name": "com.example.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037349003274-93kaceltd8m9d498h4uoebspnarm5vn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp_4mUWFSiMnDJMVfBkYTJCK91iW7RBLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037349003274-93kaceltd8m9d498h4uoebspnarm5vn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
